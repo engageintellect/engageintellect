@@ -1,6 +1,6 @@
-## "Only dead fish swim with the stream"
+**"Only dead fish swim with the stream"**
 
-## -Malcolm Muggeridge
+**-Malcolm Muggeridge**
 
 
 ---------------------
@@ -41,7 +41,5 @@
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="24" height="24" alt="Solana" /></a>
 </p>
 
-
-### Socials
 
 <p align="center"> <a href="https://discord.com/users/engage_intellect" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="24" height="24" /></a> <a href="https://www.github.com/engageintellect" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24" /></a> <a href="http://www.instagram.com/engage_intellect" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" height="24" /></a> <a href="https://www.twitter.com/engageintellect" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" height="24" /></a></p>
