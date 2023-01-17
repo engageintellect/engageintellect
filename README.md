@@ -1,14 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Josh.
-============================================================================================================================
+=
+"Only dead fish swim with the stream?"
 
-Full-stack Developer
------------------------
-
-* 🌍  I'm based in Orange County, CA. 🍊
-
-### Skills
+-Malcolm Muggeridge
 
 
+---------------------
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="24" height="24" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" /></a>
