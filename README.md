@@ -1,6 +1,6 @@
-"Only dead fish swim with the stream"
+== "Only dead fish swim with the stream" ==
 
--Malcolm Muggeridge
+== -Malcolm Muggeridge ==
 
 
 ---------------------
