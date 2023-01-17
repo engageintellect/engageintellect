@@ -1,4 +1,3 @@
-=
 "Only dead fish swim with the stream?"
 
 -Malcolm Muggeridge
