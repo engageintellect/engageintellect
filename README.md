@@ -2,6 +2,7 @@
 
 **-Malcolm Muggeridge**
 
+![alt text](https://github.com/engageintellect/engageintellect/blob/main/engage_intellect.jpg?raw=true)
 
 ---------------------
 <p align="center">
