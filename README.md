@@ -1,11 +1,6 @@
 ![alt text](https://github.com/engageintellect/engageintellect/blob/main/ex_machina.jpg?raw=true)
 
 
-**"Only dead fish swim with the stream"**
-
-**-Malcolm Muggeridge**
-
-
 ---------------------
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" /></a>
