@@ -1,8 +1,10 @@
+![alt text](https://github.com/engageintellect/engageintellect/blob/main/ex_machina.jpg?raw=true)
+
+
 **"Only dead fish swim with the stream"**
 
 **-Malcolm Muggeridge**
 
-![alt text](https://github.com/engageintellect/engageintellect/blob/main/ex_machina.jpg?raw=true)
 
 ---------------------
 <p align="center">
