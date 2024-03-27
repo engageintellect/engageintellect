@@ -1,5 +1,5 @@
 ![alt text](https://github.com/engageintellect/engageintellect/blob/main/ex_machina.jpg?raw=true)
-
+![alt text](https://getyarn.io/yarn-clip/9311d30f-fc21-4319-932e-0c0c2ddc08bd/gif#zVuJH_Sh.copy)
 
 ---------------------
 <p align="center">
