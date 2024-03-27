@@ -1,4 +1,3 @@
-![alt text](https://github.com/engageintellect/engageintellect/blob/main/ex_machina.jpg?raw=true)
 ![alt text](https://y.yarn.co/9311d30f-fc21-4319-932e-0c0c2ddc08bd_text.gif)
 ---------------------
 <p align="center">
