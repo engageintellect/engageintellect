@@ -1,3 +1,8 @@
+[Projects](https://bento.engage-dev.com/projects)
+<br>
+[Articles](https://bento.engage-dev.com/now)
+
+
 <p align="center">
 
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
